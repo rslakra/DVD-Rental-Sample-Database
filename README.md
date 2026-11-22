@@ -89,3 +89,7 @@ Give a ⭐️ if this project helped you!
 <p>
   <img src="https://github.com/gordonkwokkwok/DVD-Rental-PostgreSQL-Project/assets/112631794/04df4208-da1b-4c88-b18d-d711c0785d31" alt="Alt Text" width="260">
 </p>
+
+## Reference
+- [PostgreSQL Sample Database](https://neon.com/postgresql/getting-started/sample-database)
+
